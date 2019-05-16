@@ -7,7 +7,7 @@ CODE BOOK
 This summarises the resulting data fields in tidy.txt
 subject and activity are identifiers 
 and the following measurements were taken:
-tBodyAccMeanX
+tBodyAccMeanX\
 tBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
